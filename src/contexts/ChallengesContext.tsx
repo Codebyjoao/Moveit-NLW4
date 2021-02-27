@@ -1,6 +1,5 @@
-import { type } from 'os';
 import {createContext, useState, ReactNode, useEffect} from 'react';
-import challanges from '../../challenges.json'
+import challanges from '../../challenges.json';
 import Cookies from 'js-cookie';
 import { LevelUpModal } from '../components/LevelUpModal';
 

@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-:root{
+.lightmode:root{
 --white:#fff;
 --background:#f2f3f5;
 --gray-line: #dcdde0;
@@ -17,6 +17,22 @@
 --blue-dark: #4953b8;
 --blue-twitter: #2aa9e0;
 }
+
+:root{
+  --white:#000;
+  --background:#0d0c0a;
+  --gray-line: #23221f;
+  --text:#999999;
+  --text-highlight: #b3b9ff;;
+  --title:#d1c7b2;
+  --red:#E83F5b;
+  --green: #4cd62b;
+  --blue: #5965e0;
+  --blue-dark: #4953b8;
+  --blue-twitter: #2aa9e0;
+}
+
+
 
 body {
   background-color: var(--background);

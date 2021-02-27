@@ -1,0 +1,14 @@
+.sideBarConatainer{
+  position: fixed;
+  width: 6rem;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+
+  padding: 1.5rem;
+  border-radius: 5px;
+
+  background: var(--white);
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
+
+}
