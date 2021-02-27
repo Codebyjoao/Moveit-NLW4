@@ -12,3 +12,6 @@ esta aplicação foi desenvolvida na Edição 4 do NLW (*Next Level Week)* Even
 - TypeScript
 - CSS
 - HTML
+
+## Preview
+![Home](https://github.com/Codebyjoao/Moveit-NLW4/blob/main/preview/Move.it-Home.png)
